@@ -1,0 +1,43 @@
+body{
+    background-color: rgb(219, 238, 255);
+}
+#prin{
+    margin: auto;
+    display: block;
+    position: relative;
+   text-align: center;
+   top: 80px;
+    background-color: rgb(255, 255, 255);
+    padding: 10px;
+}
+#qr img{
+    max-height: 470px;
+    max-width: 180px;
+    width: auto;
+    height: auto;
+    text-align: center;
+    border-radius: 10px;
+   
+}
+    
+#prin{
+    max-height: 500px;
+    max-width: 200px;
+    width: auto;
+    height: auto;
+    border-radius: 10px;
+    
+}
+#text h1{
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration:bold;
+    color: rgb(23, 14, 70);
+    font-size: 14pt;
+    text-align: center;
+    
+}
+#text h2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10pt;
+    color: rgba(37, 37, 37, 0.452);
+}
